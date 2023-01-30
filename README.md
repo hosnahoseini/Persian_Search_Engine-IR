@@ -1,4 +1,4 @@
-# Persian_Search_Engine-IR
+# Persian Search Engine
 Implementing a simple search-engine based on information retrieval concepts
 
 This Project is For my Information Retrieval Course Project which was two phases and has various techniques in information retrieval such as:
